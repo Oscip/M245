@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react' // Ändere dies von '@vitejs/react-swc'
 // https://vitejs.dev/config/
 export default defineConfig({
     plugins: [react()],
-    base: '/m245/',
+    base: '/M245/',
 })
